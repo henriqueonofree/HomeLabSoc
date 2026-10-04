@@ -1,5 +1,6 @@
+<p align="center">
 # 🛡️ HomeLabSOC
-
+</p>
 <p align="center">
   <strong>Laboratório de Cybersecurity focado em SOC, SIEM, XDR, EDR, IDS/IPS, Threat Intelligence, Threat Hunting e Resposta a Incidentes.</strong>
 </p>
